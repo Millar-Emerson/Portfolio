@@ -14,11 +14,11 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
+import mysql from "./tech/mysql.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import django from "./tech/django.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import python from "./tech/python.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
@@ -46,11 +46,11 @@ export {
   html,
   javascript,
   mongodb,
-  nodejs,
+  mysql,
   reactjs,
-  redux,
+  django,
   tailwind,
-  typescript,
+  python,
   threejs,
   meta,
   shopify,
