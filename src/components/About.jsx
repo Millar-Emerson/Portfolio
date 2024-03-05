@@ -45,7 +45,9 @@ const About = () =>{
       variants={fadeIn("","",0.1,1)}
       className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px"
       >
-        aaaaaaaaaaaaaaaa
+        Skilled Full Stack Developer proficient in Django and React with a passion for building modern and scalable web applications. 
+        With a solid background in both backend and frontend development, I excel in crafting user-centric solutions that prioritize functionality and usability.
+        Experienced in designing and implementing RESTful APIs, managing databases, and creating interactive user interfaces using React.
       </motion.p>
       <div className=" mt-20 flex flex-wrap gap-10">
         {services.map((service, index)=>(

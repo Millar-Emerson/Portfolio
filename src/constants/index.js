@@ -108,47 +108,21 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Barista",
       company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2022 - February 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "As a Barista at Starbucks, I provided exceptional customer service while crafting and serving a variety of high-quality beverages and food items to guests.",
+        "My responsibilities included taking orders, preparing beverages according to Starbucks standards, operating various equipment, and maintaining cleanliness and organization in the store.",
+        "also worked collaboratively with team members to ensure a smooth and efficient workflow.",
+        "Working at Starbucks was a rewarding experience where I learned the importance of teamwork, customer satisfaction, and delivering excellence",
       ],
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "Freelancer",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -190,16 +164,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Portfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "My website to showcase my skills and projects. This platform serves as a comprehensive showcase of my work, allowing visitors to explore my portfolio, learn about my expertise, and get in touch.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "threejs",
           color: "green-text-gradient",
         },
         {
@@ -208,15 +182,15 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Millar-Emerson/Portfolio/",
     },
     {
-      name: "Job IT",
+      name: "Ecommerce",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Developed a fully functional and customized e-commerce store. This platform allows users to conveniently and securely browse and purchase a wide range of products from the comfort of their homes.",
       tags: [
         {
-          name: "react",
+          name: "django",
           color: "blue-text-gradient",
         },
         {
@@ -224,33 +198,33 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "python",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Millar-Emerson/ecommerce",
     },
     {
-      name: "Trip Guide",
+      name: "Linkedin",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed a fully functional and customized e-commerce store. This platform allows users to conveniently and securely browse and purchase a wide range of products from the comfort of their homes.",
       tags: [
         {
-          name: "nextjs",
+          name: "Django",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "React",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Linkedin",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.linkedin.com/in/millar-emerson/",
     },
   ];
   

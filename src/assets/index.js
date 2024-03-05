@@ -21,14 +21,14 @@ import tailwind from "./tech/tailwind.png";
 import python from "./tech/python.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
+import meta from "./company/freelancer.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./portfolio.jpeg";
+import jobit from "./tienda.jpeg";
+import tripguide from "./Linkedin.jpeg";
 
 export {
   logo,
