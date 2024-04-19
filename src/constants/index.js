@@ -17,7 +17,7 @@ import {
     docker,
     meta,
     starbucks,
-    tesla,
+    coto,
     shopify,
     carrent,
     jobit,
@@ -131,6 +131,19 @@ import {
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
+      title: "Cashier",
+      company_name: "Coto",
+      icon: coto,
+      iconBg: "#383E56",
+      date: "March 2024 - Present",
+      points: [
+        "As a cashier at COTO, my job involves efficiently and accurately processing customer purchase transactions. Additionally,",
+        "I am responsible for handling cash payments, credit and debit cards, as well as providing friendly and attentive customer service.",
+        "I also ensure that the cashier area is clean and organized, and I assist in resolving any transaction or payment-related issues that may arise.",
+        "In summary, as a cashier at COTO, I play a crucial role in the customer shopping experience, ensuring prompt and courteous service at the point of sale.",
       ],
     },
   ];
